@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.chat {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/chatbg.png");
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.rahul-main {
+    text-align: center;
+    background-color: #323f4b;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    height: 80px;
+
+}
+
+.varakumar {
+    color: #ffffff;
+    font-family: "Roboto";
+    height: 50px;
+    background-color: #47a3f3;
+    text-align: right;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    margin: 15px;
+}
+
+.rahul {
+    color: #ffffff;
+    font-family: "Roboto";
+    height: 50px;
+    background-color: #52606d;
+    text-align: left;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin: 15px;
+}
+
+.pad {
+    padding: 40px;
+}
