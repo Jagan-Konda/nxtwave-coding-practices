@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.cricket-top-section {
+    background-color: #fb4e71;
+    height: 30vh;
+    padding: 15px;
+}
+
+.cricket-top-container {
+    height: 160px;
+    width: 390px;
+}
+
+.cricket-top-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.cricket-top-description {
+    color: #ffffff;
+    font-weight: 400;
+
+}
+
+.cricket-bottom-section {
+    background-color: #e6f6ff;
+    height: 70vh;
+    padding: 10px;
+}
+
+.cricket-bottom-heading {
+    font-size: 18px;
+    font-weight: bold;
+    color: #323f4b;
+    padding: 10px;
+}
+
+.cricket-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.card-text-container {
+    padding: 10px;
+}
+
+.card-heading {
+    font-size: 18px;
+    color: #323f4b;
+}
+
+.card-description {
+    color: #888888;
+}
+
+.image-bottom-description {
+    font-size: 12px;
+    width: 100px;
+}
+
+.bottom-margin {
+    margin: 10px;
+
+}
