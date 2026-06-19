@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.podcast-home-page-top-section {
+    height: 40vh;
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    background-size: cover;
+    padding: 20px;
+}
+
+.podcast-home-page-top-section-main-heading {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.podcast-home-page-bottom-section {
+    height: 60vh;
+    padding: 25px;
+    margin: 10px;
+}
+
+.podcast-home-page-bottom-section-image {
+    height: 120px;
+    width: 180px;
+    margin: 10px;
+}
+
+.podcast-home-page-bottom-section-main-heading {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.podcast-home-page-bottom-section-description {
+    color: #5a7184;
+    font-size: 14px;
+    font-family: "Roboto";
+    font-weight: 300;
+}
+
+.podcast-content-page-top-section {
+    background-size: cover;
+    background-color: #151765;
+    height: 30vh;
+    padding: 20px;
+}
+
+.podcast-content-page-top-section-image {
+    height: 120px;
+    width: 150px;
+    margin: 10px;
+}
+
+
+
+.podcast-content-page-top-section-main-heading {
+    font-size: 20px;
+    color: white;
+    font-weight: 500;
+}
+
+.podcast-content-page-top-section-description {
+    font-size: 12px;
+    color: white;
+    font-weight: 300;
+    margin-top: 10px;
+}
+
+.podcast-content-page-bottom-section {
+    height: 70vh;
+    padding: 10px;
+}
+
+.podcast-content-page-bottom-main-heading {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 20px;
+    color: #151765;
+}
+
+.podcast-content-page-time {
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 12px;
+
+}
+
+.podcast-content-page-button {
+    background-color: #151765;
+    color: #ffffff;
+    font-weight: 500;
+    border-radius: 30px;
+    width: 100px;
+    padding: 5px;
+
+}
